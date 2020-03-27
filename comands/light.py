@@ -1,6 +1,7 @@
 from app import *
 
 
+# Уточнение команды света
 class LightCommandBase(CommandBase):
     def __init__(self, light):
         self.light = light

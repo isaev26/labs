@@ -1,6 +1,7 @@
 from app import *
 
 
+# Уточнение команды двери
 class DoorCommandBase(CommandBase):
     def __init__(self, door):
         self.door = door

@@ -12,6 +12,7 @@ class App(object):
         print("Дверь закрыто")
 
 
+# Интерфейс команды
 class CommandBase(object):
     def execute(self):
         raise NotImplementedError()
