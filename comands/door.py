@@ -1,7 +1,7 @@
 from app import *
 
 
-# Инициализация команды
+# Инициализация базы команды
 class DoorCommandBase(CommandBase):
     def __init__(self, door):
         self.door = door

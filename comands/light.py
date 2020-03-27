@@ -1,7 +1,7 @@
 from app import *
 
 
-# Инициализация команды
+# Инициализация базы команды
 class LightCommandBase(CommandBase):
     def __init__(self, light):
         self.light = light
