@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "AbstracFactory/1.0.0": {
+        "runtime": {
+          "AbstracFactory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstracFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

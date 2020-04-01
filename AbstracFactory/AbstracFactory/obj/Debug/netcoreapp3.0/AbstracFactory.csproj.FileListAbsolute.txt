@@ -1,0 +1,11 @@
+C:\Users\Isayev\source\repos\AbstracFactory\AbstracFactory\obj\Debug\netcoreapp3.0\AbstracFactory.AssemblyInfoInputs.cache
+C:\Users\Isayev\source\repos\AbstracFactory\AbstracFactory\obj\Debug\netcoreapp3.0\AbstracFactory.AssemblyInfo.cs
+C:\Users\Isayev\source\repos\AbstracFactory\AbstracFactory\bin\Debug\netcoreapp3.0\AbstracFactory.exe
+C:\Users\Isayev\source\repos\AbstracFactory\AbstracFactory\bin\Debug\netcoreapp3.0\AbstracFactory.deps.json
+C:\Users\Isayev\source\repos\AbstracFactory\AbstracFactory\bin\Debug\netcoreapp3.0\AbstracFactory.runtimeconfig.json
+C:\Users\Isayev\source\repos\AbstracFactory\AbstracFactory\bin\Debug\netcoreapp3.0\AbstracFactory.runtimeconfig.dev.json
+C:\Users\Isayev\source\repos\AbstracFactory\AbstracFactory\bin\Debug\netcoreapp3.0\AbstracFactory.dll
+C:\Users\Isayev\source\repos\AbstracFactory\AbstracFactory\bin\Debug\netcoreapp3.0\AbstracFactory.pdb
+C:\Users\Isayev\source\repos\AbstracFactory\AbstracFactory\obj\Debug\netcoreapp3.0\AbstracFactory.dll
+C:\Users\Isayev\source\repos\AbstracFactory\AbstracFactory\obj\Debug\netcoreapp3.0\AbstracFactory.pdb
+C:\Users\Isayev\source\repos\AbstracFactory\AbstracFactory\obj\Debug\netcoreapp3.0\AbstracFactory.csprojAssemblyReference.cache
