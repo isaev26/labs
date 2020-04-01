@@ -1,0 +1,11 @@
+C:\Users\IMRD\Desktop\05_CommandSample\CommandSample\bin\Debug\CommandSample.exe
+C:\Users\IMRD\Desktop\05_CommandSample\CommandSample\bin\Debug\CommandSample.pdb
+C:\Users\IMRD\Desktop\05_CommandSample\CommandSample\obj\x86\Debug\PatternCommand.csproj.CoreCompileInputs.cache
+C:\Users\IMRD\Desktop\05_CommandSample\CommandSample\obj\x86\Debug\CommandSample.exe
+C:\Users\IMRD\Desktop\05_CommandSample\CommandSample\obj\x86\Debug\CommandSample.pdb
+C:\Users\IMRD\Desktop\05_CommandSample\CommandSample\obj\x86\Debug\PatternCommand.csprojAssemblyReference.cache
+C:\Users\Isayev\Desktop\05_CommandSample\CommandSample\bin\Debug\CommandSample.exe
+C:\Users\Isayev\Desktop\05_CommandSample\CommandSample\bin\Debug\CommandSample.pdb
+C:\Users\Isayev\Desktop\05_CommandSample\CommandSample\obj\x86\Debug\PatternCommand.csprojAssemblyReference.cache
+C:\Users\Isayev\Desktop\05_CommandSample\CommandSample\obj\x86\Debug\CommandSample.exe
+C:\Users\Isayev\Desktop\05_CommandSample\CommandSample\obj\x86\Debug\CommandSample.pdb

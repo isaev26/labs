@@ -1,0 +1,11 @@
+C:\Users\Isayev\source\repos\adapter\adapter\bin\Debug\netcoreapp3.0\adapter.exe
+C:\Users\Isayev\source\repos\adapter\adapter\bin\Debug\netcoreapp3.0\adapter.deps.json
+C:\Users\Isayev\source\repos\adapter\adapter\bin\Debug\netcoreapp3.0\adapter.runtimeconfig.json
+C:\Users\Isayev\source\repos\adapter\adapter\bin\Debug\netcoreapp3.0\adapter.runtimeconfig.dev.json
+C:\Users\Isayev\source\repos\adapter\adapter\bin\Debug\netcoreapp3.0\adapter.dll
+C:\Users\Isayev\source\repos\adapter\adapter\bin\Debug\netcoreapp3.0\adapter.pdb
+C:\Users\Isayev\source\repos\adapter\adapter\obj\Debug\netcoreapp3.0\adapter.csprojAssemblyReference.cache
+C:\Users\Isayev\source\repos\adapter\adapter\obj\Debug\netcoreapp3.0\adapter.AssemblyInfoInputs.cache
+C:\Users\Isayev\source\repos\adapter\adapter\obj\Debug\netcoreapp3.0\adapter.AssemblyInfo.cs
+C:\Users\Isayev\source\repos\adapter\adapter\obj\Debug\netcoreapp3.0\adapter.dll
+C:\Users\Isayev\source\repos\adapter\adapter\obj\Debug\netcoreapp3.0\adapter.pdb
