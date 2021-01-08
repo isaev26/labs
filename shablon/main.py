@@ -9,7 +9,6 @@ class AbstractClass(ABC):
         self.required_operations()
         self.cook1()
         self.base_operation2()
-        self.cook2()
         self.base_operation3()
 
     def base_operation1(self):
