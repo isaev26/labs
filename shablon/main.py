@@ -7,9 +7,9 @@ class AbstractClass(ABC):
 
         self.base_operation1()
         self.required_operations()
-        self.hook1()
+        self.cook1()
         self.base_operation2()
-        self.hook2()
+        self.cook2()
         self.base_operation3()
 
     def base_operation1(self):
@@ -25,16 +25,16 @@ class AbstractClass(ABC):
     def required_operations(self):
         pass
 
-    def hook1(self):
-        pass
-
-    def hook2(self):
+    def cook1(self):
         pass
 
 
 class ConcreteClass1(AbstractClass):
-
+    
     def required_operations(self):
+        pass
+
+    def cook1(self):
         print("Жарил")
 
 
@@ -43,7 +43,7 @@ class ConcreteClass2(AbstractClass):
     def required_operations(self):
         print("Пообщался")
 
-    def hook1(self):
+    def cook1(self):
         print("Варил")
 
 
